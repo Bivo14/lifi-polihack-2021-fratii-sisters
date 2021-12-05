@@ -1,0 +1,6 @@
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const REGISTER = 'REGISTER';
+export const ANSWER_PROCESSING_START = 'ANSWER_PROCESSING_START';
+export const ANSWER_PROCESSING_DONE = 'ANSWER_PROCESSING_DONE';
+export const HABIT_INC = 'HABIT_INC';
